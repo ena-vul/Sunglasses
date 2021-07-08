@@ -1,0 +1,60 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 08.12.2020., 12.20.21
+    Author     : Ena
+*/
+
+/*
+
+> 0px   XM - NO NAME
+
+> 576px SM - small devices
+
+> 768px MD  - medium devices
+
+> 992px  LG  -  large devices
+
+> 1200px  XL  -  extra large devices
+
+> 1400px  XXL  -  extra extra large
+
+*/
+
+
+
+@media( min-width:576px){
+
+    
+    
+}
+
+
+@media(min-width:768px){
+    
+
+}
+
+
+@media(min-width:992px){
+
+
+    
+}
+
+
+@media(min-width:1200px){
+    
+
+    
+}
+
+
+@media(min-width:1400px){
+    
+
+    
+}
